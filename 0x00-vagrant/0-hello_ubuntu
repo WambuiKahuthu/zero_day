@@ -1,3 +1,4 @@
+# Uname command displays system information, eg. the os name.
 # Uname command in vagrant ssh printed:
 
 Linux
